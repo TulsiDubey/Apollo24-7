@@ -1,5 +1,4 @@
-
-# HealthVista - Apollo247 Clone
+Apollo247 Clone
 
 A clone of Apollo247's doctor listing page with filtering capabilities and a REST API backend.
 
